@@ -1,0 +1,1 @@
+/Applications/MultiMC.app/Contents/MacOS/instances/1.16.1-1/.minecraft
