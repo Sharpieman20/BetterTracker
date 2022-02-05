@@ -10,7 +10,7 @@ instance_fil = Path.cwd() / 'instances.txt'
 
 
 for ln in instance_fil.open('r'):
-    instances.append(Instance(ln))
+    instances.append(Instance(ln.rstrip()))
 
 
 loop_delay = 0.2
